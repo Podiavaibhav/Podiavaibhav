@@ -19,4 +19,4 @@ AI/ML-focused B.Tech CSE student (2023–2027) at BIET Jhansi, working on comput
 Python · PyTorch · OpenCV · YOLOv8 · Scikit-learn · SQL/PostgreSQL · Docker · Git
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/podiavaibhav/) · [LeetCode](https://leetcode.com/u/podiavaibhav/) · your@email
+[LinkedIn](https://www.linkedin.com/in/podiavaibhav/) · [LeetCode](https://leetcode.com/u/podiavaibhav/) · podiavaibhav@gmail.com
