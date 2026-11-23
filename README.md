@@ -20,3 +20,13 @@ Python · PyTorch · OpenCV · YOLOv8 · Scikit-learn · SQL/PostgreSQL · Docke
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/podiavaibhav/) · [LeetCode](https://leetcode.com/u/podiavaibhav/) · podiavaibhav@gmail.com
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/podiavaibhav/podiavaibhav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/podiavaibhav/podiavaibhav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/podiavaibhav/podiavaibhav/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
